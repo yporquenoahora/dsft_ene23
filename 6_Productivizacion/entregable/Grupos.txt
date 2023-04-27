@@ -1,0 +1,29 @@
+Grupos
+
+Manager de entregable: Jorge
+
+Flask: Manager Álvaro
+Daiana
+Noya
+Aída
+Carlos
+
+Git: Manager Marina
+Sebastián
+Jimena
+José
+Víctor
+
+Cloud: Manager Nacho
+Toni
+Silvia
+Alberto Martín
+Ricardo
+
+PySpark: Manager Ángel
+Daniel
+Alberto García
+Diego
+Fernando
+
+Presentación martes 9 de mayo
